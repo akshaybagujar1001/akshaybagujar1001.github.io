@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -25,9 +25,9 @@ const greeting = {
   subTitle:
     "A data-driven technologist passionate about building intelligent, scalable, and impactful solutions using AI, cloud, and modern web technologies. Always learning. Always delivering.",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
-  portfolio_repository: "https://github.com/akshaybagujar1001/akshaybadgujar.github.io",
-  githubProfile: "https://github.com/akshaybadgujar1001",
+    "",
+  portfolio_repository: "https://github.com/akshaybagujar1001",
+  githubProfile: "https://github.com/akshaybagujar1001",
 };
 
 const socialMediaLinks = [
@@ -431,7 +431,7 @@ const degrees = {
   subtitle: "Bachelor of Engineering (B.E.) in Computer Engineering ",
   logo_path: "sppu_logo.png",
   alt_name: "Savitribai Phule Pune University",
-  duration: "Aug 2018 – Jul 2022",
+  duration: "",
   descriptions: [
     "⚡ Developed problem-solving skills through engineering and computer science subjects.",
     "⚡ Transitioned career path to IT with focus on software development and data systems.",
@@ -727,21 +727,21 @@ const publications = {
       name: "Neuro-Symbolic Sudoku Solver",
       createdAt: "2023-07-02T00:00:00Z",
       description: "Paper published in KDD KiML 2023",
-      url: "https://arxiv.org/abs/2307.00653",
+      url: "",
     },
     {
       id: "mdp-diffusion",
       name: "MDP-Diffusion",
       createdAt: "2023-09-19T00:00:00Z",
       description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/mdp-diffusion/",
+      url: "",
     },
     {
       id: "consistency-models",
       name: "Consistency Models",
       createdAt: "2023-10-12T00:00:00Z",
       description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/consistency-models/",
+      url: "",
     },
   ],
 };
